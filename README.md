@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 Me llamo [Azahara][website], además de otras cosas, soy **desarrolladora Front-end junior**. Soy inquieta, creativa, alegre, comprometida, resolutiva, y, aunque me las apaño bien sola, me encanta trabajar en equipo. 
 
 Al mundo de la programación he entrado de la mano de **Adalab** donde acabo de terminar el Bootcamp intensivo de Desarrollo Front.
+Todavía estoy trabajando en mi portfolio y redes sociales especializadas en programación.
 Estoy deseando seguir el aprendizaje en el camino de la programación, y seguir expandiendo mis fronteras. Sky is the limit! 
 
 <img align="center" width="150px" src="./tenor.gif" alt="developer">
@@ -110,7 +111,7 @@ Me puedes encontrar en :
 <a href = 'https://twitter.com/AzaharaSiroco'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
 <a href = 'https://www.github.com/AzaharaSiroco'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 <a href = 'https://dev.to/azaharasiroco'> <img width = '32px' align= 'center' src="https://d2fltix0v2e0sb.cloudfront.net/dev-rainbow.svg"/></a>  
-
+<a href = 'https://www.instagram.com/sirocodeveloper/'> <img width = '32px' align= 'center' src="https://cdn.icon-icons.com/icons2/835/PNG/512/instagram_icon-icons.com_66733.png"/></a>  
 
 
 [website]: https://github.com/AzaharaSiroco/#/
