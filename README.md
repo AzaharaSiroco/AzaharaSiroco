@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AzaharaSiroco/AzaharaSiroco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Saludos terrícolas! 🖖 
+!Bienvenid@s a mi repo! 🏞️ 
+
+### Quién soy?
+Me llamo [Azahara][website], además de otras cosas, soy **desarrolladora Front-end junior**. Soy inquieta, creativa, alegre, comprometida, resolutiva, y, aunque me las apaño bien sola, me encanta trabajar en equipo. 
+
+Al mundo de la programación he entrado de la mano de **Adalab** donde acabo de terminar el Bootcamp intensivo de Desarrollo Front. Estoy deseando seguir el aprendizaje en el camino de la programación, y seguir expandiendo mis fronteras. Sky is the limit! 
+
+<img align="center" src="../images/tenor.gif" alt="developer">
