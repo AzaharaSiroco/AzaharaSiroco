@@ -76,7 +76,7 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 <img align="left" alt="Photoshop" width="65px" src="https://www.solvetic.com/uploads/monthly_04_2016/tutorials-9832-0-29308300-1461599966.png" />
 
-<img align="left" alt="Lightroom" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Adobe_Photoshop_Lightroom_v4.0.png" />
+<img align="left" alt="Lightroom" width="27px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Adobe_Photoshop_Lightroom_v4.0.png" />
 
 <br>
 <br>
