@@ -30,6 +30,9 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 <img align="left" width="150px"  src="./mothercat.gif" alt="mothercat">
 
+<br>
+<br>
+
 ### Conocimientos 🧠
 
 ##### Programación 👩‍💻
@@ -53,7 +56,8 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 <img align="left" alt="Sass" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
 
-
+<br>
+<br>
 
 ##### Fotografía y diseño 📷 📓
 
@@ -66,6 +70,8 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 <img align="left" alt="Lightroom" width="65px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Adobe_Photoshop_Lightroom_v4.0.png" />
 
+<br>
+<br>
 
 ##### Herramientas 🔧
 
@@ -81,3 +87,5 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
 
+<br>
+<br>
