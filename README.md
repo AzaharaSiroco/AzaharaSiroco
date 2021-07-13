@@ -21,4 +21,4 @@ Me llamo [Azahara][website], además de otras cosas, soy **desarrolladora Front-
 
 Al mundo de la programación he entrado de la mano de **Adalab** donde acabo de terminar el Bootcamp intensivo de Desarrollo Front. Estoy deseando seguir el aprendizaje en el camino de la programación, y seguir expandiendo mis fronteras. Sky is the limit! 
 
-<img align="center" src="../images/tenor.gif" alt="developer">
+<img align="center" src="./tenor.gif" alt="developer">
