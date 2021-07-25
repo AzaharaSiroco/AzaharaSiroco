@@ -13,21 +13,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Saludos terrícolas! 🖖 
-!Bienvenid@s a mi repo! 🏞️ 
+### Greetings, Earthlings! 🖖 
+Welcome to my repo! 🏞️ 
 
-### Quién soy? 
-Me llamo [Azahara][website], además de otras cosas, soy **desarrolladora Front-end junior**. Soy inquieta, creativa, alegre, comprometida, resolutiva, y, aunque me las apaño bien sola, me encanta trabajar en equipo. 
+### Who I am? 
+My name is [Azahara][website], among other things, I am **Junior Front-end Developer**. I´m restless, creative, cheerful, committed, decisive, and, although I manage well alone, I love working as a team.
 
-Al mundo de la programación he entrado de la mano de **Adalab** donde acabo de terminar el Bootcamp intensivo de Desarrollo Front.
-Todavía estoy trabajando en mi portfolio y redes sociales especializadas en programación.
-Estoy deseando seguir el aprendizaje en el camino de la programación, y seguir expandiendo mis fronteras. Sky is the limit! 
+I have entered the world of programming with **Adalab** where I just finished the intensive Front Development Bootcamp.
+I am working on my portfolio and social networks specialized in programming.
+I am looking forward to continuing learning programming , and continuing to expand my knowdlegde. Sky is the limit!
 
 <img align="center" width="150px" src="./tenor.gif" alt="developer">
 
-Además soy publicista y fotógrafa profesional, sin dejar atrás una de las más importantes...
 
-Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
+I am a professional publicist and photographer, without forgetting one of the most important ...
+I am Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 <img align="left" width="150px"  src="./mothercat.gif" alt="mothercat">
 
@@ -42,9 +42,9 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 <br>
 
 
-### Conocimientos 🧠
+### Knowledge 🧠
 
-##### Programación 👩‍💻
+##### Programming 👩‍💻
 
 <img align="left" alt="HTML5" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
@@ -68,7 +68,7 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 <br>
 <br>
 
-##### Fotografía y diseño 📷 📓
+##### Photography and design 📷 📓
 
 
 <img align="left" alt="Indesign" width="35px" src="https://thinkvox.com.mx/wp-content/uploads/2020/08/Logo-adobe-indesign.png" />
@@ -82,7 +82,7 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 <br>
 <br>
 
-##### Herramientas 🔧
+##### Tools 🔧
 
 <img align="left" alt="Github" width="30px" src="https://image.flaticon.com/icons/png/512/25/25231.png" />
 
@@ -101,11 +101,12 @@ Yo soy Azahara Siroco... Mother of Cats  🔥🐈🔥🐈🔥🐈🔥.
 
 --------
 
-### Contacto 💬 
+### Contact 💬 
 
-📧 Si quieres hablar conmigo,puedes hacerlo a través del e-mail: azahara1359@gmail.com
+📧 If you want to talk to me, you can send me an e-mail: azahara1359@gmail.com
 
-Me puedes encontrar en :
+
+You can find me at:
 
 <a href = 'https://www.linkedin.com/in/azahara-garcia/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://twitter.com/AzaharaSiroco'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
